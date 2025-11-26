@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
-    <img alt="js" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=efd81d" />
+    <img alt="js" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&&logo=javascript&logoColor=efd81d" />
     <img alt="typescript" title="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&?logo=typescript&logoColor=fff">
-    <img alt="php" src="https://img.shields.io/badge/-PHP-505c90?style=flat-square?style=for-the-badge&&logo=php&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge?style=for-the-badge&&logo=gnu-bash&logoColor=white" alt="Shell" tittle="Shell">
+    <img alt="php" src="https://img.shields.io/badge/-PHP-505c90?style=for-the-badge&&&logo=php&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&&&logo=gnu-bash&logoColor=white" alt="Shell" tittle="Shell">
 </p>
 
 <h3 align="center">🛠 Tools & Environement</h3>
