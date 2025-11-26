@@ -18,14 +18,15 @@
 
 <h3 align="center">🛠 Tools & Environement</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman?style=for-the-badge&&logoColor=white" alt="Postman" title="Postman">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql?style=for-the-badge&&logoColor=fff" alt="Mysql" title="Mysql">
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite?style=for-the-badge&&logoColor=white" alt="SQLite" title="SQLite">
-    <img src="https://img.shields.io/badge/Flask-000?logo=flask?style=for-the-badge&&logoColor=fff" alt="Flask" title="Flask">
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js?style=for-the-badge&&logoColor=white" alt="NestJS" title="NextJS">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react?style=for-the-badge&&logoColor=%2361DAFB" alt="React" title="React">
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity?style=for-the-badge&&logoColor=white" alt="Unity" title="Unity">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css?style=for-the-badge&&logoColor=white" alt="Tailwind" title="Tailwind">
+ <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" title="Shell Script">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" title="Next.js">
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
 
 <h3 align="center">👨‍💻 OS</h3>
