@@ -35,6 +35,6 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
 </p>
 
-<img src="[https://lanyard-profile-readme.vercel.app/api/375570065262903297](https://lanyard.cnrad.dev/api/417379462250889247?theme=dark)" alt="My discord profile" title="My discord profile">
+[![Discord Presence](https://lanyard.cnrad.dev/api/417379462250889247)](https://discord.com/users/417379462250889247)
 
     
