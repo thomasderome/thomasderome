@@ -30,8 +30,8 @@
 
 <h3 align="center">👨‍💻 OS</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11?style=for-the-badge&&logoColor=white" alt="Ubuntu" title="Ubuntu">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11?style=for-the-badge&&logoColor=white" alt="Windows" title="Windows">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
 </p>
     
 
