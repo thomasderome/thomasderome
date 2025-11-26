@@ -18,20 +18,20 @@
 
 <h3 align="center">🛠 Tools & Environement</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" title="Postman">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="Mysql" title="Mysql">
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" title="SQLite">
-    <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="Flask" title="Flask">
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="NestJS" title="NextJS">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" title="React">
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" title="Unity">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind" title="Tailwind">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman?style=for-the-badge&&logoColor=white" alt="Postman" title="Postman">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql?style=for-the-badge&&logoColor=fff" alt="Mysql" title="Mysql">
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite?style=for-the-badge&&logoColor=white" alt="SQLite" title="SQLite">
+    <img src="https://img.shields.io/badge/Flask-000?logo=flask?style=for-the-badge&&logoColor=fff" alt="Flask" title="Flask">
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js?style=for-the-badge&&logoColor=white" alt="NestJS" title="NextJS">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react?style=for-the-badge&&logoColor=%2361DAFB" alt="React" title="React">
+    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity?style=for-the-badge&&logoColor=white" alt="Unity" title="Unity">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css?style=for-the-badge&&logoColor=white" alt="Tailwind" title="Tailwind">
 </p>
 
 <h3 align="center">👨‍💻 OS</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Ubuntu" title="Ubuntu">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows" title="Windows">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11?style=for-the-badge&&logoColor=white" alt="Ubuntu" title="Ubuntu">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11?style=for-the-badge&&logoColor=white" alt="Windows" title="Windows">
 </p>
     
 
