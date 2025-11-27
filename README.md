@@ -13,12 +13,12 @@
     <img alt="js" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&&logo=javascript&logoColor=efd81d" />
     <img alt="typescript" title="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&?logo=typescript&logoColor=fff">
     <img alt="php" src="https://img.shields.io/badge/-PHP-505c90?style=for-the-badge&&&logo=php&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&&&logo=gnu-bash&logoColor=white" alt="Shell" tittle="Shell">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" title="Bash">
 </p>
 
 <h3 align="center">🛠 Tools & Environement</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" title="Shell Script">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&&&logo=gnu-bash&logoColor=white" alt="Shell" tittle="Shell">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
 <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite">
