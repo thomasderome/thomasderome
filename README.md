@@ -35,7 +35,4 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/417379462250889247)](https://discord.com/users/417379462250889247)
-
     
