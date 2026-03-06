@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" title="Bash">
 </p>
 
-<h3 align="center">🛠 Tools & Environement</h3>
+<h3 align="center">🛠 Tools & Environements</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&&&logo=gnu-bash&logoColor=white" alt="Shell" tittle="Shell">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman">
