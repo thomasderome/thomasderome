@@ -1,6 +1,6 @@
 <h1 align="center">👋 HI, I'm Thomas</h1>
 
-<p align="center">💻 IT student passionate <strong>developpement</strong></p>
+<p align="center">💻 IT student passionate about <strong>developpement</strong></p>
 
 <h3 align="center">⌨️ Language</h3>
 <p align="center">
