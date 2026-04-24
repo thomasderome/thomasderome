@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
     <img alt="js" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&&logo=javascript&logoColor=efd81d" />
     <img alt="typescript" title="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&?logo=typescript&logoColor=fff">
-    <img alt="php" src="https://img.shields.io/badge/-PHP-505c90?style=for-the-badge&&&logo=php&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" title="Bash">
 </p>
 
