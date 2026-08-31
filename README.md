@@ -32,12 +32,12 @@
 
 <h3 align="center">🧠 JetBrains Suite</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" title="PyCharm">
-    <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand" title="GoLand">
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" title="WebStorm">
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" title="Rider">
-    <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" title="DataGrip">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" title="PyCharm">
+    <img src="https://img.shields.io/badge/GoLand-00ACC1?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand" title="GoLand">
+    <img src="https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" title="WebStorm">
+    <img src="https://img.shields.io/badge/Rider-FF3849?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" title="Rider">
+    <img src="https://img.shields.io/badge/DataGrip-22D88F?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" title="DataGrip">
 </p>
 
 <h3 align="center">👨‍💻 OS</h3>
